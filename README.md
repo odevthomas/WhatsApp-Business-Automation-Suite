@@ -1,4 +1,5 @@
 # WhatsApp Business Automation Platform
+![WhatsApp Business Automation Suite](https://github.com/user-attachments/assets/bff42e7d-25e0-46e3-b074-da0a0ca18e6b)
 
 ## Visão Geral
 
